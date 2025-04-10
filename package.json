@@ -9,7 +9,8 @@
     "docs:dev": "pnpm --filter @toy-element/docs dev",
     "docs:build": "pnpm --filter @toy-element/docs build",
     "story": "pnpm --filter @toy-element/play storybook",
-    "build": "pnpm --filter toy-element2 build"
+    "build": "pnpm --filter toy-element2 build",
+    "release": "pnpm --filter toy-element2 release"
   },
   "keywords": [],
   "author": "",
